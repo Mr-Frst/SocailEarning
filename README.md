@@ -1,3 +1,3 @@
-# SocailEarning
+# SocialEarning
 
 nawa
