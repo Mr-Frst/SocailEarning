@@ -20,11 +20,11 @@ If you prefer, you can add your SocialEarning login details to the passwd.json f
 
 ## Automatic Login Feature  
 The bot supports automatic login to the following platforms:
-- [+] SocialEarning
+- SocialEarning
   #### Coming Soon
-    - [+] X
-    - [+] Facebook
-    - [+] Instagram
+    - X
+    - Facebook
+    - Instagram
 
 Please note that the bot **won't be able to perform any tasks** on social media accounts you haven't logged into yet. For any social account you haven't logged into, cookies won't be saved, and a login will be required.
 #
@@ -34,8 +34,8 @@ Please note that the bot **won't be able to perform any tasks** on social media 
     - Accessing your social media accounts while the bot is active might cause your account to get flagged.
 
   #### This happens because
-    - [+] **Security Alerts**: Platforms may consider this suspicious and flag your account for unusual activity.
-    - [+] **Multiple Sessions**: Social media platforms may detect simultaneous operations from different locations or devices.
+    - **Security Alerts**: Platforms may consider this suspicious and flag your account for unusual activity.
+    - **Multiple Sessions**: Social media platforms may detect simultaneous operations from different locations or devices.
  
   #### Recommendations
     - Allow the bot to complete its tasks without manual interference.
