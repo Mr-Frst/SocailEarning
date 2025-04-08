@@ -44,6 +44,16 @@ Please note that the bot **won't be able to perform any tasks** on social media 
 
 By following these precautions, you help ensure the smooth operation of the bot and protect your accounts from being flagged.
 #
+## Optional: Enable Auto Login
+  If you want the bot to log in automatically when you're logged out, you can add your credentials to a JSON file `credentials.json`.
+  ```
+  {
+    "email": "your_email@example.com",
+    "password": "your_password"
+  }
+  ```
+  Make sure this file is kept private and secure.
+#
 ## Provide Your Verified Social Media Account IDs  
 To ensure seamless operation, please input the IDs of your verified social media accounts on [socialearning.org](https://socialearning.org/) in the passwd.json file.
 This is required for the bot to correctly identify your accounts and submit tasks.
