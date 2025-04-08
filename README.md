@@ -57,8 +57,23 @@ To End running session, kindly Press `CTRL+C`
   - PC with a Linux-based OS (Ubuntu recommended)
   - Python 3.8 or higher
   - Git installed
- > Need help setting up Ubuntu? [Watch this guide](https://youtu.be/FdsB5gTVMTk?si=fqH01fVLkkhDhScg)
+ > 💡 Need help setting up Ubuntu? [Watch this guide](https://youtu.be/FdsB5gTVMTk?si=fqH01fVLkkhDhScg)
 
   #### 2. Clone the Repository  
      git clone https://github.com/Mr-Frst/SocialEarning-Bot
      cd SocialEarning-Bot
+  #### 3. Install Dependencies
+     pip install -r requirements.txt
+  #### 5. Install Chromium (for Playwright)
+     playwright install chromium
+  #### 6. Authenticate Your SocialEarning & X.com Accounts
+  Before using the bot, you must authenticate your session:
+  ```
+  python3 Socail-Earning.py --auth
+  ```
+  This will open a browser window. Do the following:
+  - ✅ Log in to your SocialEarning.org account.
+  - ✅ Log in to your X.com (Twitter) account.
+  - ✅ Ensure your verified X (Twitter) account is added and active on your SocialEarning.org profile.  
+  
+  This step stores session cookies to allow the bot to run smoothly without repeated logins.
