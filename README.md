@@ -8,7 +8,7 @@ Rest assured that your passwords are encrypted using Playwright and are not shar
 If you prefer, you can add your SocialEarning login details to the passwd.json file. This will allow the bot to log in automatically in case you're logged out, making the process smoother.
 #
 ## Action Requred
-  Please provide your SocialEarning login details in the passwd.json file. This is Optional, for the bot login to your account automatically else login manually using --auth flag
+  Please provide your SocialEarning login details in the passwd.json file. This is Optional, for the bot login to your account automatically else login manually using **--auth** flag
 #
 ## Features
 - **X**: Automates likes, tweet views, retweets, and follows
@@ -28,7 +28,7 @@ The bot supports automatic login to the following platforms:
 
 Please note that the bot **won't be able to perform any tasks** on social media accounts you haven't logged into yet. For any social account you haven't logged into, cookies won't be saved, and a login will be required.
 #
-## Avoid Accessing Your Social Media Accounts While the Bot is Running  
+## Disclaimer  
 - To ensure the safe and uninterrupted operation of the bot, please avoid logging into your social media accounts while the bot is running.
   #### Why This Is Important
     - Accessing your social media accounts while the bot is active might cause your account to get flagged.
