@@ -49,7 +49,7 @@ To ensure seamless operation, please input the IDs of your verified social media
 This is required for the bot to correctly identify your accounts and submit tasks.
 #
 ## Exit Program  
-To End running session, kindly Press CTRL+C
+To End running session, kindly Press `CTRL+C`
 #
 ## ⚙️ Installation Guide
   Follow the steps below to install and set up the SocialEarning Referral Booster Bot:
