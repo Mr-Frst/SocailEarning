@@ -1,0 +1,5 @@
+bs4==0.0.2
+datetime==5.5
+tzlocal==5.2
+aiofiles==24.1.0
+playwright==1.49.1
