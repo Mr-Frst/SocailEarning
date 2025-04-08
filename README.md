@@ -76,6 +76,5 @@ This helps keep your account safe and the bot running smoothly.
   This will open a browser window. Do the following:
   - ✅ Log in to your SocialEarning.org account.
   - ✅ Log in to your X.com (Twitter) account.
-  - ✅ Ensure your verified X (Twitter) account is added and active on your SocialEarning.org profile.  
   
   This step stores session cookies to allow the bot to run smoothly without repeated logins.
