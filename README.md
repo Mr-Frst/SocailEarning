@@ -50,3 +50,6 @@ This is required for the bot to correctly identify your accounts and submit task
 #
 ## Exit Program  
 To End running session, kindly Press CTRL+C
+#
+## Compatibility  
+**🚀 For PC Users**: This tool is optimized for PC running Linux-based operating systems (like Ubuntu). Check out this step-by-step guide on [How to Install Ubuntu](https://youtu.be/FdsB5gTVMTk?si=V2UlCuxFUMgobE9-)
