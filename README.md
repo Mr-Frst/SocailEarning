@@ -35,7 +35,7 @@ The bot supports automatic login to the following platforms:
 Add your **verified social media account ID** (e.g., X.com ID) from [socialearning.org](https://socialearning.org/) to `credentials.json`.  
 ```
 "Twitter": {
-          "media-id": "your_verified_social_media_account_ID"
+    "media-id": "your_verified_social_media_account_ID"
 }
 ```
 This helps the bot correctly match and submit your tasks.
@@ -45,7 +45,7 @@ To End running session, kindly Press `CTRL+C`
 #
 ## ⚠️ Disclaimer
 Avoid logging into your social media accounts while the bot is running.  
-  ### Why?
+  #### Why?
   - It may trigger security alerts or **suspicious activity flags**.
   - Platforms can detect multiple sessions and block tasks.
   #### Recommendation
