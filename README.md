@@ -14,7 +14,7 @@ Rest assured that your passwords are encrypted using Playwright and are not shar
   - **Instagram**: Likes posts, follows pages, and posts comments
 #
 ## Optional: Enable Auto Login
-  If you want the bot to log in automatically when you're logged out, you can add your credentials to a JSON file `credentials.json`.
+  If you want the bot to log in automatically when you're logged out, you can add your credentials to a JSON file `storage/credentials.json`.
   ```
   "SocialEarning": {
           "email": "your_email@example.com",
@@ -32,7 +32,7 @@ The bot supports automatic login to the following platforms:
     - Instagram
 #
 ## Add Verified Social Media ID
-Add your **verified social media account ID** (e.g., X.com ID) from [socialearning.org](https://socialearning.org/) to `credentials.json`.  
+Add your **verified social media account ID** (e.g., X.com ID) from [socialearning.org](https://socialearning.org/) to `storage/credentials.json`.  
 ```
 "Twitter": {
     "media-id": "your_verified_social_media_account_ID"
