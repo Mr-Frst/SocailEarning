@@ -68,12 +68,8 @@ To End running session, kindly Press `CTRL+C`
   - ✅ Log in to your X.com (Twitter) account.
   
   This step stores session cookies to allow the bot to run smoothly without repeated logins.
-  #### 7. Run the Bot Normally  
   After completing authentication, run the bot without flags to start automation:
-  ```
-  python3 nexora.py
-  ```
-  The bot will now:
+  #### The bot will now:
   - Auto-login (if needed)
   - Perform tasks on SocialEarning.org (likes, follows, submissions, etc.)
 #
