@@ -43,16 +43,6 @@ This helps the bot correctly match and submit your tasks.
 ## Exit Program  
 To End running session, kindly Press `CTRL+C`
 #
-## ⚠️ Disclaimer
-Avoid logging into your social media accounts while the bot is running.  
-  #### Why?
-  - It may trigger security alerts or **suspicious activity flags**.
-  - Platforms can detect multiple sessions and block tasks.
-  #### Recommendation
-  - Let the bot finish before logging in manually.
-  - If you must access your account, **stop the bot first**.
-This helps keep your account safe and the bot running smoothly.
-#
 ## ⚙️ Installation Guide
   Follow the steps below to install and set up the SocialEarning Referral Booster Bot:
   #### 1. System Requirements
@@ -71,7 +61,7 @@ This helps keep your account safe and the bot running smoothly.
   #### 6. Authenticate Your SocialEarning & X.com Accounts
   Before using the bot, you must authenticate your session:
   ```
-  python3 Social-Earning.py --auth
+  python3 nexora.py --auth
   ```
   This will open a browser window. Do the following:
   - ✅ Log in to your SocialEarning.org account.
@@ -81,8 +71,18 @@ This helps keep your account safe and the bot running smoothly.
   #### 7. Run the Bot Normally  
   After completing authentication, run the bot without flags to start automation:
   ```
-  python3 Social-Earning.py
+  python3 nexora.py
   ```
   The bot will now:
   - Auto-login (if needed)
   - Perform tasks on SocialEarning.org (likes, follows, submissions, etc.)
+#
+## ⚠️ Disclaimer
+Avoid logging into your social media accounts while the bot is running.  
+  #### Why?
+  - It may trigger security alerts or **suspicious activity flags**.
+  - Platforms can detect multiple sessions and block tasks.
+  #### Recommendation
+  - Let the bot finish before logging in manually.
+  - If you must access your account, **stop the bot first**.
+This helps keep your account safe and the bot running smoothly.
