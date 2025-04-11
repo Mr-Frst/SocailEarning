@@ -52,8 +52,8 @@ To End running session, kindly Press `CTRL+C`
  > 💡 Need help setting up Ubuntu? [Watch this guide](https://youtu.be/FdsB5gTVMTk?si=fqH01fVLkkhDhScg)
 
   #### 2. Clone the Repository  
-     git clone https://github.com/Mr-Frst/SocialEarning-Bot
-     cd SocialEarning-Bot
+     git clone https://github.com/Mr-Frst/SocialEarningBot
+     cd SocialEarningBot
   #### 3. Install Dependencies
      pip install -r requirements.txt
   #### 5. Install Chromium (for Playwright)
