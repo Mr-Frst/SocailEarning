@@ -81,3 +81,7 @@ Avoid logging into your social media accounts while the bot is running.
   - Let the bot finish before logging in manually.
   - If you must access your account, **stop the bot first**.
 This helps keep your account safe and the bot running smoothly.
+#
+### 📬 Contact Information
+**🔹 Telegram (Admin): @Aut0Zone**  
+**🔹 Official Channel: [Join Here](https://t.me/+gMgslTRT83hjZjlk)**
